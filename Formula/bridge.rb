@@ -7,7 +7,7 @@ class Bridge < Formula
   on_macos do
     on_intel do
       url "https://github.com/eduardoworrel/bridge/releases/download/v0.2.5/bridge-0.2.5-x86_64-apple-darwin.tar.gz"
-      sha256 "566088e7111b3074585cbec74fe5fc3f83976d8e06bdfe6f50a6a97fdd3dce10"
+      sha256 "e03900217bef7978c14307cd039484f835527562066de431d06cd861a8892a05"
     end
   end
 
